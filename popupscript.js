@@ -1,4 +1,3 @@
-<script>
   document.addEventListener('DOMContentLoaded', function() {
   var modal = document.getElementById("myModal");
   var btn = document.getElementById("animatedButton");
@@ -18,4 +17,3 @@
     }
   }
 });
-</script>
